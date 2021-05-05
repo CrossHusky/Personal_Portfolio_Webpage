@@ -2,17 +2,17 @@
 ## Responsive Web Design Project
 ### The following user stories should be fulfilled:
 
-- [ ] User Story #1: My portfolio should have a welcome section with an id of `welcome-section`.
+- [x] User Story #1: My portfolio should have a welcome section with an id of `welcome-section`.
 
-- [ ] User Story #2: The welcome section should have an `h1` element that contains text.
+- [x] User Story #2: The welcome section should have an `h1` element that contains text.
 
-- [ ] User Story #3: My portfolio should have a projects section with an id of `projects`.
+- [x] User Story #3: My portfolio should have a projects section with an id of `projects`.
 
 - [ ] User Story #4: The projects section should contain at least one element with a class of `project-tile` to hold a project.
 
 - [ ] User Story #5: The projects section should contain at least one link to a project.
 
-- [ ] User Story #6: My portfolio should have a navbar with an id of `navbar`.
+- [x] User Story #6: My portfolio should have a navbar with an id of `navbar`.
 
 - [ ] User Story #7: The navbar should contain at least one link that I can click on to navigate to different sections of the page.
 
